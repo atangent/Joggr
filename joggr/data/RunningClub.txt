@@ -1,0 +1,12 @@
+Bob Jones, 22, 15, True, Morning
+Sally Jane, 23, 15, True, Morning
+John Barton, 30, 10, False, Afternoon
+Samuel Kai, 31, 10, True, Morning
+Bob Lamb, 31, 10, True, Morning
+Max Keevil, 32, 10, False, Afternoon
+Alexia Pinder, 35, 30, True, Evening
+Maxwell Jones, 36, 30, True, Evening
+Guy Raz, 20, 30, true, morning
+Kevin Systrom, 49, 5, false, evening
+Alex Ohanian, 46, 5, false, evening
+Brain Chesky, 47, 5, false, evening
